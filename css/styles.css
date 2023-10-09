@@ -98,9 +98,11 @@ a {
     padding: 24px 0;
 }
 
+.h-list-item:active,
 .h-list-item:hover,
 .h-list-item:focus{
 color: #404bbf;
+text-decoration: underline;
 }
 
 .current-h-list-item {
