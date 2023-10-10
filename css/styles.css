@@ -443,9 +443,10 @@ fill: #f4f4fd;
 
 }
 
-.overlay-text:hover {
+.portfolio-list-item:hover .overlay-text {
     transform: translateY(0%);
 }
+
 
 .name-category {
     padding: 32px 16px;
